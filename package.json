@@ -1,0 +1,1 @@
+{"name":"number-management-service","version":"1.0.0","description":"HTTP microservice for number management","main":"index.js","dependencies":{"axios":"^1.4.0","express":"^4.18.2","moment":"^2.29.4","node-cache":"^5.1.2"},"scripts":{"start":"node index2.js"},"author":"Shishir Dwivedi"}
